@@ -1,0 +1,1 @@
+let point = { x: int; y: int;};;
