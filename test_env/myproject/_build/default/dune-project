@@ -1,0 +1,7 @@
+(lang dune 2.7)
+(name myproject)
+(version 0.0.0)
+(generate_opam_files true)
+
+(license MIT)
+

@@ -9,3 +9,5 @@ let fuga = hoge + 0
 let hogefuga = hoge + fuga
 
 type foo = { x : float; y : float }
+
+let rec p x = if x = 0 then 3 else p (x - 1)
