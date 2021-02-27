@@ -7,3 +7,5 @@ let hoge = 9
 let fuga = hoge + 0
 
 let hogefuga = hoge + fuga
+
+type foo = { x : float; y : float }
